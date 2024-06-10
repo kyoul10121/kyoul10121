@@ -1,15 +1,18 @@
-🏢 Dept. of Computer Science and Engineering, BUFS (2021.3 ~ )
-🍀 GreenBee (Dept. Club) (2022.3 ~ )
-👨‍💻 LG U+ URECA 1th FrontEnd (2024.6 ~ )
-<!---
-kyoul10121/kyoul10121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 <!--타이틀 부분-->
 <!--<div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>-->
+<h3 align="center">About Me 😝</h3>
+  <p text-align="center">
+    
+    🏢 Dept. of Computer Science and Engineering, BUFS (2021.3 ~ )
+    
+    🍀 GreenBee (Dept. Club) (2022.03 ~ )
+
+    👨‍💻 LG U+ URECA 1th FrontEnd (2024.6 ~ )
+  </p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
