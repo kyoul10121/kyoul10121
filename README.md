@@ -64,7 +64,10 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">&nbsp
   </a>
   <a href="mailto:kyoul10121@gmail.com">
-    <img
-      src="https://img.shields.io/badge/kyoul10121@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kyoul10121@gmail.com"/>
   </a>
+<a href="https://www.instagram.com/9_atns">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/9_atns"/>
+</a>
+
 </div>
